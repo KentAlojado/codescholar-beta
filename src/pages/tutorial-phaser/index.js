@@ -12,16 +12,16 @@ const TutorialPhaserPage = () => (
 <h4 className="media-heading course-title">Basics</h4>
 <ol className="lesson-nav">
 <li className="current-link">Introduction to Phaser 3</li>
-<li><a href="/tutorial-html/lesson-2">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-3">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-4">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-5">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-6">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-7">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-8">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-9">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-10">Lesson</a></li>
-<li><a href="/tutorial-html/lesson-11">Lesson</a></li>
+<li><a href="/tutorial-phaser/lesson-2">Cross-platform Game</a></li>
+<li><a href="/tutorial-phaser/lesson-3">What is HTML5?</a></li>
+<li><a href="/tutorial-phaser/lesson-4">What is Phaser?</a></li>
+<li><a href="/tutorial-phaser/lesson-5">Using Phaser</a></li>
+<li><a href="/tutorial-phaser/lesson-6">Lesson</a></li>
+<li><a href="/tutorial-phaser/lesson-7">Lesson</a></li>
+<li><a href="/tutorial-phaser/lesson-8">Lesson</a></li>
+<li><a href="/tutorial-phaser/lesson-9">Lesson</a></li>
+<li><a href="/tutorial-phaser/lesson-10">Lesson</a></li>
+<li><a href="/tutorial-phaser/lesson-11">Lesson</a></li>
 </ol>
 </div>
 </div>
@@ -40,7 +40,7 @@ I did my best for you to like this book and find it useful. And most of all I wa
 By buying this book you allowed me to concentrate on book and course development, which is something I really like.</p>
 <p>Let's start.</p>
 <p className="bg-cs lft">
-<a href="/tutorial-html/lesson-2" >START LESSON</a>
+<a href="/tutorial-phaser/lesson-2" >START LESSON</a>
 </p>
 </div>
 </div>
